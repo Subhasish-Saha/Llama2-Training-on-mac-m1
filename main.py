@@ -43,4 +43,4 @@ user_input = "Tell me about Vision Trasformer in the paper"
 
 
 result=chain({'query':user_input})
-print(f"Answer:{result['result']}")
+print(f"\n\nAnswer:{result['result']}")
