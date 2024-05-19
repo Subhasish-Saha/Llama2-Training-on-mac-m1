@@ -1,4 +1,4 @@
-# Llama2-Training-on-CPU
+# Llama2-Training-on-mac-m1
 
 # How to run ?
 
